@@ -70,7 +70,7 @@ const Layout = ({ children, title = "World Ranks" }) => {
 
       <main className={styles.main}>{children}</main>
 
-      <footer className={styles.footer}>@heavydriver11</footer>
+      <footer className={styles.footer}>@heavydriver</footer>
     </div>
   );
 }
